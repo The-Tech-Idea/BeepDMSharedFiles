@@ -1,2 +1,2 @@
 # BeepDMSharedFiles
-File shared for BeepDM project
+Configuration Files shared for Beep Data Management Library
